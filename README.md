@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Mathias. I am a student at EASV in denmark, where i study computer science
-- 👀 Game Development and coding business logic for database applications
-- 🌱 Microsofts Al language, also i'm trying to refresh my java knowledge
+- 👋 Hi, I’m Mathias. I am a developer working on larger web applications with a speciality in frontend development.
+
 - 📫 You can reach me at math231k@hotmail.com or on mathiasbirins@gmail.com
 
 <!---
